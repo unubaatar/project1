@@ -1,4 +1,5 @@
 // enchee code bicsen shuu 
+//zaa ahhaha 
 var player = 0;
 var currentScore = 0;
 var dice;
